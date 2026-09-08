@@ -82,6 +82,7 @@ Terraform → KVM → NetBox → Cloud-Init → Ansible → FreeIPA → DNS
 ### 🎓 Education
 
 Specialization Course in Cybersecurity for Information Technology Environments — CIDEAD, Madrid
+
 Higher Technical Degree in Network Systems Administration (ASIR) — IES Clara del Rey, Madrid
 
 ---
