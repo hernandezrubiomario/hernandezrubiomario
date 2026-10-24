@@ -73,7 +73,7 @@ Terraform → KVM → NetBox → Cloud-Init → Ansible → FreeIPA → DNS
 - **Cloudera** — CDP Certified Administrator · CDP Certified Data Engineer · CDP Certified Data Operator (NiFi & Kafka)
 - **HashiCorp** — Terraform Associate (004)
 - **AWS** — Certified Solutions Architect · Certified Data Engineer
-- **Microsoft** — AZ-104 Azure Administrator · SC-900 Azure Security
+- **Microsoft** — AZ-104 Azure Administrator · SC-900 Azure Security · DP-300 Azure Database Administrator
 - **Linux** — LPIC-1
 - **Python** — PCAP (Certified Associate in Python Programming)
 - Scrum Master Certified
